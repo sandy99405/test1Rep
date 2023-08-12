@@ -20,6 +20,10 @@ public class Main {
         hm.put(1,3);
         hm.put(2,4);
         hm.put(4,5);
+
+        hm.put(6,7);
+
+        hm.put(8,9);
         
         
 	}
