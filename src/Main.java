@@ -25,6 +25,8 @@ public class Main {
 
         hm.put(8,9);
 
+       hm.put(10,100);
+
        
         
 	}
