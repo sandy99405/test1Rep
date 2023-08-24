@@ -27,7 +27,7 @@ public class Main {
 
        hm.put(10,100);
 
-       
+       hm.put(99,200);
         
 	}
 
